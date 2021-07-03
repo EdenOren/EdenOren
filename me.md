@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EdenOren
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning Computer Science at the Open University
+- 💞️ I’m looking to collaborate on TBD
+- 📫 edenoren@gmail.com
